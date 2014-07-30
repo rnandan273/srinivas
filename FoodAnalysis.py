@@ -9,7 +9,7 @@ import csv
 import xlrd
 from pymongo import MongoClient
 """
-Process Menus
+Process Menuss and recipes
 """
 
 
